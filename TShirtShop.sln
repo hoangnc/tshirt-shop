@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{FBD3B061-84D0-4482-A381-5761A3D5C221}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{B1B264AD-F4C1-42DA-A765-9A74A5FABE41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{EE5914D3-DFA6-4E43-9CE7-CF20078CDF9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{0E70F8E0-EFC0-42D4-A883-27B026BF29AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{C10D246A-5C57-4863-AC44-7940CBAF5F70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BF146A73-6C36-468A-B7F7-395D994F0D02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F674AFD5-7AC0-49D9-8FB6-132664CFA92A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirtShop.Application", "TShirtShop.Application\TShirtShop.Application.csproj", "{73905C29-7C3E-4A75-967F-A651F91A0CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirtShop.Domain", "TShirtShop.Domain\TShirtShop.Domain.csproj", "{12160E73-CC7E-4DBD-8192-82DBEB767AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TShirtShop.Persistence", "TShirtShop.Persistence\TShirtShop.Persistence.csproj", "{9421C87A-738B-4E8D-86D8-E613620B7D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73905C29-7C3E-4A75-967F-A651F91A0CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73905C29-7C3E-4A75-967F-A651F91A0CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73905C29-7C3E-4A75-967F-A651F91A0CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73905C29-7C3E-4A75-967F-A651F91A0CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12160E73-CC7E-4DBD-8192-82DBEB767AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12160E73-CC7E-4DBD-8192-82DBEB767AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12160E73-CC7E-4DBD-8192-82DBEB767AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12160E73-CC7E-4DBD-8192-82DBEB767AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9421C87A-738B-4E8D-86D8-E613620B7D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9421C87A-738B-4E8D-86D8-E613620B7D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9421C87A-738B-4E8D-86D8-E613620B7D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9421C87A-738B-4E8D-86D8-E613620B7D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E70F8E0-EFC0-42D4-A883-27B026BF29AD} = {B1B264AD-F4C1-42DA-A765-9A74A5FABE41}
+		{C10D246A-5C57-4863-AC44-7940CBAF5F70} = {B1B264AD-F4C1-42DA-A765-9A74A5FABE41}
+		{BF146A73-6C36-468A-B7F7-395D994F0D02} = {B1B264AD-F4C1-42DA-A765-9A74A5FABE41}
+		{F674AFD5-7AC0-49D9-8FB6-132664CFA92A} = {B1B264AD-F4C1-42DA-A765-9A74A5FABE41}
+		{73905C29-7C3E-4A75-967F-A651F91A0CA9} = {C10D246A-5C57-4863-AC44-7940CBAF5F70}
+		{12160E73-CC7E-4DBD-8192-82DBEB767AC4} = {C10D246A-5C57-4863-AC44-7940CBAF5F70}
+		{9421C87A-738B-4E8D-86D8-E613620B7D98} = {BF146A73-6C36-468A-B7F7-395D994F0D02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4B7E06-915C-4B96-9261-4368F5322421}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\bin\Debug\netstandard2.0\TShirtShop.Persistence.deps.json
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\bin\Debug\netstandard2.0\TShirtShop.Persistence.dll
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\bin\Debug\netstandard2.0\TShirtShop.Domain.dll
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\bin\Debug\netstandard2.0\TShirtShop.Domain.pdb
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.csprojAssemblyReference.cache
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.csproj.CoreCompileInputs.cache
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.AssemblyInfoInputs.cache
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.AssemblyInfo.cs
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.csproj.CopyComplete
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\bin\Debug\netstandard2.0\TShirtShop.Persistence.pdb
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.dll
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Persistence\obj\Debug\netstandard2.0\TShirtShop.Persistence.pdb

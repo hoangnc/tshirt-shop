@@ -1,0 +1,9 @@
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\bin\Debug\netstandard2.0\TShirtShop.Domain.deps.json
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\bin\Debug\netstandard2.0\TShirtShop.Domain.dll
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\bin\Debug\netstandard2.0\TShirtShop.Domain.pdb
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\obj\Debug\netstandard2.0\TShirtShop.Domain.csprojAssemblyReference.cache
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\obj\Debug\netstandard2.0\TShirtShop.Domain.csproj.CoreCompileInputs.cache
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\obj\Debug\netstandard2.0\TShirtShop.Domain.AssemblyInfoInputs.cache
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\obj\Debug\netstandard2.0\TShirtShop.Domain.AssemblyInfo.cs
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\obj\Debug\netstandard2.0\TShirtShop.Domain.dll
+G:\Develop\Turing-HoangNC\TShirtShop\TShirtShop.Domain\obj\Debug\netstandard2.0\TShirtShop.Domain.pdb
