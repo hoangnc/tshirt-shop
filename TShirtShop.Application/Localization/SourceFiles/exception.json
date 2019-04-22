@@ -1,0 +1,6 @@
+{
+  "culture": "en",
+  "exceptions": {
+    "existingorders": "There are existing orders associated with this product."
+  }
+}
